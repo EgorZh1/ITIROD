@@ -15,7 +15,7 @@ On this platform you can upload your music.
 - Share music
 - Upload your music or sounds
 - Analyze user activity (Time spent, etc)
-- Serch music.
+- Search music.
 
 ### Data models description.
 
