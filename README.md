@@ -34,6 +34,6 @@ On this platform you can upload your music.
     - user music
 
 - Analytics
-    - most viewed videos
-    - liked videos
+    - most listened music
+    - liked music
     - most viewed categories
